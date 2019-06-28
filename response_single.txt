@@ -1,0 +1,34 @@
+<rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:linqmap="http://www.linqmap.com">
+  <channel>
+    <title>GeoRSS</title>
+    <description>GeoRSS</description>
+    <georss:box>-85.000000,-179.000000,85.000000,179.000000</georss:box>
+    <linqmap:time>Fri Sep 27 01:26:00 +0000 2013,Fri Sep 27 01:27:00 +0000 2013</linqmap:time>
+    <item>
+      <title>alert</title>
+      <description>Point consists of a Latitude Longitude location</description>
+      <guid>urn:uuid:d496f4e3-7fd8-4169-ac6208e36dffa7f0</guid>
+      <link>http://georss.org/example/simple/point</link>
+      <author>LinQmap</author>
+      <pubDate>Fri Sep 27 01:19:41 +0000 2013</pubDate>
+      <georss:point>21.352212 -157.932579</georss:point>
+      <linqmap:entityid>alert-1207475617/ae0ed4e9-f087-4c89-8c7d-7cce01109038</linqmap:entityid>
+      <linqmap:uuid>ae0ed4e9-f087-4c89-8c7d-7cce01109038</linqmap:uuid>
+      <linqmap:magvar>-168</linqmap:magvar>
+      <linqmap:speed>0.0</linqmap:speed>
+      <linqmap:type>POLICEMAN</linqmap:type>
+      <linqmap:subtype></linqmap:subtype>
+      <linqmap:inscale>true</linqmap:inscale>
+      <linqmap:street>Zipper Lane</linqmap:street>
+      <linqmap:country>US</linqmap:country>
+      <linqmap:nearBy>Salt Lake</linqmap:nearBy>
+      <linqmap:roadType>20</linqmap:roadType>
+      <linqmap:reportMood>1</linqmap:reportMood>
+      <linqmap:reportRating>1</linqmap:reportRating>
+      <linqmap:showFacebookPic>false</linqmap:showFacebookPic>
+      <nComments>0</nComments>
+      <nThumbsUp>0</nThumbsUp>
+      <confidence>0</confidence>
+    </item>
+  </channel>
+</rss>
